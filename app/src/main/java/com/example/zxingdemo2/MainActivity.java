@@ -16,7 +16,6 @@ import com.google.zxing.WriterException;
 import com.google.zxing.client.android.Intents;
 import com.google.zxing.common.BitMatrix;
 import com.journeyapps.barcodescanner.BarcodeEncoder;
-import com.journeyapps.barcodescanner.CaptureActivity;
 
 import java.io.UnsupportedEncodingException;
 
